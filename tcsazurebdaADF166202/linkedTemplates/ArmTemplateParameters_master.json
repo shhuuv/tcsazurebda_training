@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "tcsazurebdaADF166202"
 		},
+		"AzureBlobStorage_connectionString": {
+			"value": ""
+		},
 		"AzureStorageLinkedService_connectionString": {
 			"value": ""
 		},
