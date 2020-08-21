@@ -1,0 +1,19 @@
+{
+	"name": "SourceDataset_l6r",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "emp.rtf",
+				"folderPath": "input",
+				"container": "adftutorial"
+			}
+		}
+	}
+}
